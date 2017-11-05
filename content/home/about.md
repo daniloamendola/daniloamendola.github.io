@@ -1,40 +1,41 @@
 +++
 # About/Biography widget.
-widget = "about"
-active = true
+
 date = "2016-04-20T00:00:00"
+draft = false
+
+widget = "about"
 
 # Order that this section will appear in.
 weight = 5
 
-# List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Vehicular Networks",
+    "Medium Access Control",
+    "Delay Tolerant Networks"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Information and Communication Engineering"
+  institution = "Sapienza University of Rome"
+  year = 2017
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MEng in Telecommunication Engineering"
+  institution = "University of Calabria - IT"
+  year = 2013
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Computer Science"
+  institution = "University of Calabria - IT"
+#  year = 2007
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Danilo Amendola (S’13) is a PostDoc in ICT Engineering, he received the MSc degree in Telecommunication Engineering from the University of Calabria, Cosenza, Italy, in 2013, and Ph.D. degree in Information and Communication Technologies from the Sapienza University of Rome, Italy in 2017.
+Since 2017, he joined the Department of Architecture and Engineering, University of Trieste, as a Postdoctoral fellow in collaboration with IRCCS.
+His current research activity focuses on distributed communications, RFid, medium access control, live migration, virtual machines migration, internet of things, delay tolerant networks and ad hoc networks. 

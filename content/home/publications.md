@@ -1,12 +1,13 @@
 +++
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
-widget = "publications"
-active = true
+
 date = 2016-04-20
+draft = false
 
 title = "Recent Publications"
 subtitle = ""
+widget = "publications"
 
 # Order that this section will appear in.
 weight = 20
@@ -32,4 +33,3 @@ list_format = 3
 #  6: Book chapter
 publication_type = "-1"
 +++
-

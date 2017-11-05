@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Academic"
-copyright = "&copy; 2017 Your Name"
+title = "Danilo Amendola"
+copyright = "&copy; 2017 Danilo Amendola"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -12,15 +12,14 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-108273827-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 [outputs]
-  home = [ "HTML", "CSS", "RSS" ]
-  section = [ "HTML", "RSS" ]
+  home = [ "HTML", "CSS" ]
 
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/readfiles/bfconfig/
@@ -39,59 +38,40 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Danilo Amendola"
+  role = "PostDoc/Engineer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "University of Trieste", url = "http://www.units.it" }, { name = "Sapienza University of Rome", url = "http://www.uniroma1.it" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "danilo.amendola@uniroma1.it"
+  address = "Building C3, University of Trieste, Trieste, 34100, IT"
+  office_hours = "email for appointment"
+  phone = ""
+  skype = ""
   telegram = ""
 
-  # Enable Keybase in Contact widget by entering your keybase.io username.
+  # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
-
-  # Discussion link (e.g. link to a forum, mailing list, or chat).
-  #   Uncomment line below to use.
-  #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
   logo = ""
 
-  # Enable/disable map in Contact widget.
-  # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
-  # a map provider below.
-  # To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
-  #   https://developers.google.com/maps/documentation/javascript/get-api-key
-  # To use OpenStreetMap tiles, set `map = 2`.
-  # To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
-  #   https://www.mapbox.com/studio/account/tokens
-  # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-  #
-  # Map provider:
-  #   0: No map
-  #   1: Google Maps
-  #   2: OpenStreetMap (Mapnik)
-  #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
-  zoom = 15
+  # Enable Google Maps by entering your API key, latitude, and longitude.
+  #   Get your API key: https://developers.google.com/maps/documentation/javascript/get-api-key
+  #   Get your coords: Right-click place on Google Maps. Select 'What's here?'. At the bottom is a card with the coords.
+  #   Disable Google Maps by clearing all three options to "".
+  google_maps_api_key = "AIzaSyCitpBNMtgeJUHM7o285S1i4na0esJZhAM"
+  latitude = "45.659063"
+  longitude = "13.795243"
 
-  # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
+  # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
-  #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
   reading_time = true
@@ -161,29 +141,6 @@ defaultContentLanguageInSubdir = false
     'Book chapter'  # 6
   ]
 
-  # Configuration of talk pages.
-  [params.talks]
-    # Show talk time?
-    time = true
-
-  # Configuration of publication pages.
-  [params.publications]
-    # Date format (refer to Go's date format: http://fuckinggodateformat.com )
-    #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-    date_format = "January, 2006"
-
-  # Configuration of project pages.
-  [params.projects]
-    # List publications and talks related to the project?
-    list_children = true
-
-    # Publication list format.
-    #   0 = Simple
-    #   1 = Detailed
-    #   2 = APA
-    #   3 = MLA
-    publication_format = 3
-
   # Social/Academic Networking
   #
   # Icon pack "fa" includes the following social network icons:
@@ -205,22 +162,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:danilo.amendola@uniroma1.it"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "http://twitter.com/DanAmendola"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.it/citations?user=_-OobJ8AAAAJ&hl=it"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://github.com/daniloamendola"
 
 
 # Navigation Links
@@ -238,15 +195,15 @@ defaultContentLanguageInSubdir = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
 [[menu.main]]
   name = "Teaching"
