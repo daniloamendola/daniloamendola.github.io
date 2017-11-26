@@ -13,6 +13,8 @@ Su questa pagine verranno pubblicati gli avvisi ed il materiale del corso di Fon
 
 
 ## Slides
+- [Lezione 1: Una guida per l'installazione di Java SDK (draft)](2017/csfoundation/other/guida_installazione_jdk.pdf)
+
 <!--[Slide 01](/2017/csfoundation/slides/Slide-lez-01.pdf) -->
 <!--[Slide 02](/2017/csfoundation/slides/Slide-lez-01.pdf) -->
 
@@ -25,7 +27,9 @@ Su questa pagine verranno pubblicati gli avvisi ed il materiale del corso di Fon
 
 ## Link Utili
 
-- [Java SSK Download](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-- [Una guida per l'installazione di Hava SDK su Windows](http://www.dis.uniroma1.it/%7Efigest/install.html)
+- [Java JDK Download](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+- [Una guida per l'installazione di Java SDK (Sapienza)](http://www.dis.uniroma1.it/%7Efigest/install.html)
+- [Una guida per l'installazione di Java SDK (draft)](2017/csfoundation/other/guida_installazione_jdk.pdf)
 - [Un editor semplice: notepad++](https://notepad-plus-plus.org/download)
+- [Un editor/IDE flessibile: Atom](https://atom.io)
 - [Un IDE completo: Eclipse](https://www.eclipse.org)
