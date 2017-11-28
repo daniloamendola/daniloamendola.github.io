@@ -9,8 +9,7 @@ math = true
 <!-- # Fondamenti di Informatica (2017-18) {{% toc %}}
  -->
 # Fondamenti di Informatica (2017-18)
-Su questa pagine verranno pubblicati gli avvisi ed il materiale del corso di Fondamenti di Infomatica relativi alle lezioni del Prof. D.Amendola.
-[Iscrizione al corso](https://docs.google.com/forms/d/1aZ8HNOJLF1r-MsxfoBQjDKv2h8V-Cs2P3Jqtp3A2dqc/prefill)
+Su questa pagine verranno pubblicati gli avvisi ed il materiale del corso di Fondamenti di Infomatica relativi alle lezioni dell'Ing. D.Amendola.
 
 Nuovo form di registrazione qui: [Iscrizione al corso](https://goo.gl/forms/YNS7bZ6pHBB4Xwis1)
 (Verifica se sei nella [lista email](https://docs.google.com/spreadsheets/d/1IfY7Zu9cSI7xOuFbUfOW9fVl5juv06JQugmLDISmwVg/edit?usp=sharing), altrimenti ripeteti la registrazione)
