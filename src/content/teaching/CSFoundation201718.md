@@ -16,7 +16,7 @@ Nuovo form di registrazione qui: [Iscrizione al corso](https://goo.gl/forms/YNS7
 (Verifica se sei nella [lista email](https://docs.google.com/spreadsheets/d/1IfY7Zu9cSI7xOuFbUfOW9fVl5juv06JQugmLDISmwVg/edit?usp=sharing), altrimenti ripeteti la registrazione)
 
 ## Slides
-- [Lezione 1: Una guida per l'installazione di Java SDK (draft)](2017/csfoundation/others/guida_installazione_jdk.pdf)
+- [Lezione 1: Una guida per l'installazione di Java SDK (draft)](/2017/csfoundation/others/guida_installazione_jdk.pdf)
 
 <!--[Slide 01](/2017/csfoundation/slides/Slide-lez-01.pdf) -->
 <!--[Slide 02](/2017/csfoundation/slides/Slide-lez-01.pdf) -->
@@ -32,7 +32,7 @@ Nuovo form di registrazione qui: [Iscrizione al corso](https://goo.gl/forms/YNS7
 
 - [Java JDK Download](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - [Una guida per l'installazione di Java SDK (Sapienza)](http://www.dis.uniroma1.it/%7Efigest/install.html)
-- [Una guida per l'installazione di Java SDK (draft)](2017/csfoundation/others/guida_installazione_jdk.pdf)
+- [Una guida per l'installazione di Java SDK (draft)](/2017/csfoundation/others/guida_installazione_jdk.pdf)
 - [Un editor semplice: notepad++](https://notepad-plus-plus.org/download)
 - [Un editor/IDE flessibile: Atom](https://atom.io)
 - [Un IDE completo: Eclipse](https://www.eclipse.org)
