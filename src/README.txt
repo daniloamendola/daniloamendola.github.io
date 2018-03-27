@@ -10,5 +10,5 @@ cp -R static .. #da src/ a basepath
 git add *
 git commit -m "a msg"
 
-
+git push -u origin master -f
 

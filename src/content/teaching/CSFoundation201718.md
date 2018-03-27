@@ -18,6 +18,7 @@ Su questa pagine verranno pubblicati gli avvisi ed il materiale del corso di Fon
 - [Lezione 01 - Variabili ed assegnamenti (pdf)](/2017/csfoundation/slides/lez_01.pdf)
 - [Lezione 02 - Tutorato del 19/12/2017 17.30-19.30, codice sorgente (zip)](/2017/csfoundation/codes/sorgenti-lez02.zip)
 - [Lezione 03 - Programmazione strutturata (pdf)](/2017/csfoundation/slides/lez_03.pdf) - [codice sorgente (zip)](/2017/csfoundation/codes/sorgenti-lez03.zip)
+- [Lezione 04 - Classi Oggetti e metodi (pdf)](/2017/csfoundation/slides/lez_04.pdf)
 
 
 ## Modalità d'esame
