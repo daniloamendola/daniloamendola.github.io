@@ -13,13 +13,7 @@ Su questa pagine verranno pubblicati gli avvisi ed il materiale del corso di Fon
 
 
 ## Slides
-- [Lezione 00: Una guida per l'installazione di Java SDK (draft) (pdf)](https://daniloamendola.github.io/2017/csfoundation/others/guida_installazione_jdk.pdf)
-- [Lezione 00 - Intoduzione al corso (pdf)](/2017/csfoundation/slides/lez_00.pdf)
-- [Lezione 01 - Variabili ed assegnamenti (pdf)](/2017/csfoundation/slides/lez_01.pdf)
-- [Lezione 02 - Tutorato del 19/12/2017 17.30-19.30, codice sorgente (zip)](/2017/csfoundation/codes/sorgenti-lez02.zip)
-- [Lezione 03 - Programmazione strutturata (pdf)](/2017/csfoundation/slides/lez_03.pdf) - [codice sorgente (zip)](/2017/csfoundation/codes/sorgenti-lez03.zip)
-- [Lezione 04 - Classi Oggetti e metodi (pdf)](/2017/csfoundation/slides/lez_04.pdf)
-
+- [Pagina web: www2.units.it/damendola](http://www2.units.it/damendola/teaching/csfoundation201718/)
 
 ## Modalità d'esame
 - Esercizi assegnati durante il corso (alcuni facoltativi ed altri obbligatori);
