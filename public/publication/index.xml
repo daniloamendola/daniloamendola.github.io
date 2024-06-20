@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Danilo Amendola</title>
+    <link>http://localhost:1313/publication/</link>
+    <description>Recent content in Publications on Danilo Amendola</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Danilo Amendola</copyright>
+    <lastBuildDate>Thu, 24 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimum-energy bandwidth management for QoS live migration of virtual machines</title>
+      <link>http://localhost:1313/publication/bandwidth-livemig/</link>
+      <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bandwidth-livemig/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Performance evaluation of primary-secondary reliable resource-management in vehicular networks</title>
+      <link>http://localhost:1313/publication/performance-evaluation-primary-seondary/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/performance-evaluation-primary-seondary/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reliable Adaptive Resource Management for Cognitive Cloud Vehicular Networks</title>
+      <link>http://localhost:1313/publication/reliable-adaptive-resource/</link>
+      <pubDate>Wed, 06 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/reliable-adaptive-resource/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

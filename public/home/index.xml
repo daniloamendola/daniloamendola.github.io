@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Danilo Amendola</title>
+    <link>http://localhost:1313/home/</link>
+    <description>Recent content in Homes on Danilo Amendola</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Danilo Amendola</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/about/</guid>
+      <description>Biography Danilo Amendola (S’13) is a PostDoc in ICT Engineering, he received the MSc degree in Telecommunication Engineering from the University of Calabria, Cosenza, Italy, in 2013, and Ph.D. degree in Information and Communication Technologies from the Sapienza University of Rome, Italy in 2017. Since 2017, he joined the Department of Architecture and Engineering, University of Trieste, as a Postdoctoral fellow in collaboration with IRCCS. His current research activity focuses on distributed communications, RFid, medium access control, live migration, virtual machines migration, internet of things, delay tolerant networks and ad hoc networks.</description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/teaching/</guid>
+      <description>I am a teaching instructor for the following courses at University of Trieste:&#xA;CSF-201718: Computer Science Foundations, an intro to programing languages: Java and C; </description>
+    </item>
+    <item>
+      <title>Recent Publications</title>
+      <link>http://localhost:1313/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/publications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/contact/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

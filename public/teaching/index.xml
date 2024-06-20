@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Danilo Amendola</title>
+    <link>http://localhost:1313/teaching/</link>
+    <description>Recent content in Teaching on Danilo Amendola</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Danilo Amendola</copyright>
+    <lastBuildDate>Sun, 17 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Science Foundations</title>
+      <link>http://localhost:1313/teaching/csfoundation201718/</link>
+      <pubDate>Sun, 17 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/csfoundation201718/</guid>
+      <description>Fondamenti di Informatica (2017-18) Su questa pagine verranno pubblicati gli avvisi ed il materiale del corso di Fondamenti di Infomatica relativi alle lezioni dell&amp;rsquo;Ing. D.Amendola.&#xA;Slides Pagina web: www2.units.it/damendola Modalità d&amp;rsquo;esame Esercizi assegnati durante il corso (alcuni facoltativi ed altri obbligatori); Test finale con modalità ancora da definire; Link Utili Java JDK Download Una guida per l&amp;rsquo;installazione di Java SDK (Sapienza) Una guida per l&amp;rsquo;installazione di Java SDK (draft) Un editor semplice: notepad++ Un editor/IDE flessibile: Atom Un IDE completo: Eclipse Libri consigliati Cay Horstmann.</description>
+    </item>
+  </channel>
+</rss>

@@ -6,7 +6,10 @@ title = "Computer Science Foundations"
 math = true
 +++
 
-<!-- # Fondamenti di Informatica (2017-18) {{% toc %}} -->
+<!-- # Fondamenti di Informatica (2017-18) { { %
+ toc 
+ 
+ % } } -->
 
 # Fondamenti di Informatica (2017-18)
 Su questa pagine verranno pubblicati gli avvisi ed il materiale del corso di Fondamenti di Infomatica relativi alle lezioni dell'Ing. D.Amendola.
