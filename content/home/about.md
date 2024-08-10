@@ -13,7 +13,9 @@ weight = 5
   interests = [
     "Vehicular Networks",
     "Medium Access Control",
-    "Delay Tolerant Networks"
+    "Delay Tolerant Networks",
+    "Counter-Unmanned Aerial Systems",
+    "Drones"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -25,7 +27,7 @@ weight = 5
 [[education.courses]]
   course = "MEng in Telecommunication Engineering"
   institution = "University of Calabria - IT"
-  year = 2013
+#  year = 2013
 
 [[education.courses]]
   course = "BSc in Computer Science"
